@@ -3,10 +3,10 @@ by Ahmed Shaaban Elsaka
 
 Videos taken from https://www.packtpub.com/business/odoo-11-business-video during Free Weekend access 25th November - 2nd December 2019
 
-!(packtpub-free-week.jpg)
+![Pactpub Free Week](https://raw.githubusercontent.com/tarkizbiz/odoo-11-for-business/master/packtpub-free-week.jpeg)
 
 ## Section 1: Taking the Odoo Tour and Begin with CRM
-### video1_1(video1_1.mp4)
+### [video1_1](video1_1.mp4)
 **The Course Overview**
 
 ### video1_2
